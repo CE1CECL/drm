@@ -1,0 +1,1 @@
+"./autogen.sh" --prefix=/usr/ --enable-maintainer-mode --enable-largefile --enable-static --enable-shared --enable-fast-install --enable-libtool-lock --enable-udev --enable-libkms --disable-intel --disable-radeon --enable-vmwgfx-experimental-api --disable-nouveau-experimental-api
